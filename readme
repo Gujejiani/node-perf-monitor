@@ -1,0 +1,4 @@
+# Node Performance Monitor
+
+This Node.js program captures local performance data, including CPU load, memory usage, OS information, and more, and sends it via socket to a server for monitoring and analysis.
+
